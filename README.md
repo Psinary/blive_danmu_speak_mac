@@ -6,4 +6,4 @@
 [B站弹幕姬MAC说明](http://baigebg.com/archives/1611/)
 
 ## 效果图
-[img](http://www.baigebg.com/usr/uploads/2023/01/202301311757070.png)
+![img](http://www.baigebg.com/usr/uploads/2023/01/202301311757070.png)
